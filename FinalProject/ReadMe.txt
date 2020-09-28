@@ -1,0 +1,2 @@
+This folder contains a jupyter notebook that is the final project and report for Machine Learning.  The data used is the csv file named 
+Twitter-Absolute-Sigma-500 and information about the data is in Twitter-Absolute-Sigma-500_names which is a text file. 
